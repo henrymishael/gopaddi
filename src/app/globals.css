@@ -293,11 +293,7 @@ body {
   cursor: pointer;
   
 }
-.swiper-slide:hover {
-  transform: scaleY(-1.1);
-  animation:transition-all 500ms ease-in-out;
 
-}
 
 .swiper-slide:nth-child(2n) {
   width: 60%;

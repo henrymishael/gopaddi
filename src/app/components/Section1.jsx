@@ -1,11 +1,11 @@
 import Image from 'next/image'
 import React from 'react'
 //import avatar from '@/app/images/avatar.png'
-import avatar1 from '../images/comment1.png'
-import avatar2 from '../images/comment2.png'
-import avatar3 from '../images/comment3.png'
-import vec from '../images/Vector.svg'
-import banner from '../images/bounce.svg'
+import avatar1 from '@/app/images/comment1.png'
+import avatar2 from '@/app/images/comment2.png'
+import avatar3 from '@/app/images/comment3.png'
+import vec from '@/app/images/Vector.svg'
+import banner from '@/app/images/bounce.svg'
 
 export const Section1 = () => {
   return (

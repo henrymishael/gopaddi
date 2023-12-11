@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import radial from '../images/section3.svg'
+import radial from '@/app/images/section3.svg'
 
 export const Section3 = () => {
   return (

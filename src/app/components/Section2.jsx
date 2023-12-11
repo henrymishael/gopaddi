@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import map from '../images/map2.svg'
+import map from '@/app/images/map2.svg'
 
 function Section2() {
   return (

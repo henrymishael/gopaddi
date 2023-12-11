@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import React from 'react'
-import logo from '../images/logo.png'
-import footer from '../images/footer.png'
+import logo from '@/app/images/logo.png'
+import footer from '@/app/images/footer.png'
 
 export const Footer = () => {
   return (

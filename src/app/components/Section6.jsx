@@ -1,12 +1,12 @@
 "use client";
 import Image from 'next/image'
 import React from 'react'
-import slide1 from '../images/slide1.png'
-import slide2 from '../images/slide2.png'
-import slide3 from '../images/slide3.svg'
-import logo from '../images/logo.png'
-import cycle from '../images/cycling.png'
-import flight from '../images/flight.png'
+import slide1 from '@/app/images/slide1.png'
+import slide2 from '@/app/images/slide2.png'
+import slide3 from '@/app/images/slide3.svg'
+import logo from '@/app/images/logo.png'
+import cycle from '@/app/images/cycling.png'
+import flight from '@/app/images/flight.png'
 
 
 import  { useRef, useState } from 'react';

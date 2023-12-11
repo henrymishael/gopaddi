@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import cycle from '../images/cycle.png'
+import cycle from '@/app/images/cycle.png'
 
 export const Section5 = () => {
   return (

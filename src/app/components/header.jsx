@@ -2,10 +2,10 @@
 
 import React, { useState } from 'react'
 import { ArrowDown, Back, HambergerMenu } from 'iconsax-react'
-import chevron from '../images/arrowch.svg'
+import chevron from '@/app/images/arrowch.svg'
 import Image from 'next/image'
-import avatar from '../images/avatar.png'
-import header from '../images/header.png'
+import avatar from '@/app/images/avatar.png'
+import header from '@/app/images/header.png'
 
 
 

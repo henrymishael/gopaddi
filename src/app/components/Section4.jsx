@@ -1,5 +1,5 @@
 import React from 'react'
-import bg from '../images/section4.png'
+import bg from '@/app/images/section4.png'
 import Image from 'next/image'
 
 export const Section4 = () => {
