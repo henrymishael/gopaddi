@@ -4,7 +4,7 @@ import map from '@/app/images/map2.svg'
 
 function Section2() {
   return (
-    <div className='section2 flex lg:flex-row xsm:flex-col md:items-center md:justify-center  xsm:gap-16 lg:gap-0 xsm:min-h-[40rem] md:min-h-[44rem]  lg:w-[100%] xsm:w-[150%] lg:mt-16 xsm:mt-44 xsm:px-12 lg:px-20'> 
+    <div className='section2 flex lg:flex-row xsm:flex-col md:items-center md:justify-center  xsm:gap-16 lg:gap-0 xsm:min-h-[40rem] md:min-h-[28rem]  lg:w-[100%] xsm:w-[150%] lg:mt-16 xsm:mt-44 xsm:px-12 lg:px-20'> 
       <div className='lg:w-[60rem]'>
         <Image src={map} />
       </div>

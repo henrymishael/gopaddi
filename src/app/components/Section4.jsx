@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 export const Section4 = () => {
   return (
-    <div className='flex lg:flex-row xsm:flex-col items-center justify-center gap-16 xsm:min-h-[40rem] lg:min-h-[36rem]  lg:w-[100%] xsm:w-[150%] lg:mt-16 xsm:mt-44 xsm:px-12 lg:px-20'> 
+    <div className='flex lg:flex-row xsm:flex-col items-center justify-center gap-16 xsm:min-h-[40rem] lg:min-h-[28rem]  lg:w-[100%] xsm:w-[150%] lg:mt-16 xsm:mt-44 xsm:px-12 lg:px-20'> 
       <div className='lg:w-[60rem]'>
         <Image src={bg} />
       </div>

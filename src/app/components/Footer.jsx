@@ -5,7 +5,7 @@ import footer from '@/app/images/footer.png'
 
 export const Footer = () => {
   return (
-    <div className='flex xsm:flex-col lg:flex-row justify-between xsm:justify-normal lg:min-h-[400px]  xsm:min-h-[380px] lg:w-[100%] xsm:w-[150%] mt-12 xsm:gap-8 lg:gap-10 bg-[#4A84D6] lg:px-14 md:py-10 xsm:px-6 xsm:py-4 md:px-10'>
+    <div className='flex xsm:flex-col lg:flex-row lg:justify-between xsm:justify-normal lg:min-h-[400px]  xsm:min-h-[380px] lg:w-[100%] xsm:w-[150%] mt-12 xsm:gap-8 lg:gap-10 bg-[#4a84d6] lg:px-14 md:py-10 xsm:px-6 xsm:py-4 md:px-10'>
         <div className='flex lg:flex-col xsm:flex-row xsm:gap-4 lg:gap-12 text-white lg:w-[25%] lg:text-[12px]  xsm:text-[10px] '>
             <Image className='xsm:w-[78px] lg:w-[180px]' src={logo}/>
             <p className='lg:text-[12px] md:w-[30%] lg:w-auto  xsm:text-[10px] '>Gopaddi is a travel network that connects and strengthens people’s relationships with a world of beautiful, happy people who are able to reach out for their dreams and be who they want to be.</p>
